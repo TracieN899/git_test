@@ -1,0 +1,4 @@
+Hello World!
+This is where I started learning coding.
+Hopefully, I can master it as soon as possible to support my career path.
+Thank you.
